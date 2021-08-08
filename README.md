@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/128645137-a8b23a6f-77f4-4109-8d02-bb8c3b53430f.png">
   <br />
   Zorin OS Guide
 </h1>
@@ -7,6 +7,11 @@
 #### A guide on setting up your Zorin Desktop with all the essential Applications, Tools, and Games to make your experience with Zorin OS great! This may not be perfect guide for everyone but I feel there is at least one or more perfect solutions for New and Advanced Zorin OS users.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/128645138-f4ff0748-6db7-481b-86b6-00a5e8727cbf.png">
+  <br />
+</p>
 
 # Table of Contents
 
@@ -64,11 +69,11 @@
 
 [Rufus](https://rufus.ie/) is a small application that creates bootable USB drives, which can then be used to install or run Microsoft Windows, Linux or DOS.
 
-<h1 align="center">
- <img src="">
+<h3 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/128645139-10dcec07-e532-4dc8-92ac-cb99242da040.png">
   <br />
   Zorin OS Desktop
-</h1>
+</h3>
 
 
 ## Installing Pop Shell on Ubuntu
@@ -105,7 +110,7 @@ sudo apt install gnome-tweak-tool //let's you customize your desktop layout.
 ## Enable Firewall
 
 ```sh
-sudo ufw enable  //enables ubuntu firewall
+sudo ufw enable  //enables firewall
 sudo ufw status //checks status of firewall
 ```
 # Getting Software
