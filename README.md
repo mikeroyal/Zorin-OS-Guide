@@ -117,15 +117,14 @@ sudo ufw status //checks status of firewall
 
 [Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
 
-## Ubuntu Software Center
- <img src="https://user-images.githubusercontent.com/45159366/107094063-37582180-67bb-11eb-8fd8-a7eb1ca25e2c.png">
-
 **Note 1: All this software is also available in other popular Linux distributions such as [Debian](https://www.debian.org/), [Linux Mint](https://linuxmint.com/), [elementary OS](https://elementary.io/), [Pop!_OS](https://pop.system76.com/), [Fedora](https://getfedora.org), [Manjaro Linux](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/) and [Arch Linux](https://archlinux.org/).**
 
 **Note 2: For new users not comfortable with using the command-line checkout the Essential Apps section to get started. Also, if you scroll down further you'll see other easy ways to get software applications through Flathub, Snap Store, and AppImages.**
 
-## Setting up GNOME Software Center(for those that don't want to use Ubuntu Software Center)
+## GNOME Software Center
 
+ <img src="https://user-images.githubusercontent.com/45159366/107159312-fb03fd00-6943-11eb-933c-188617e63fd1.png">
+ 
 ```sh
 sudo apt install gnome-software
 sudo apt install snapd
@@ -133,7 +132,7 @@ sudo apt install gnome-software-plugin-snap
 sudo apt install flatpak
 sudo apt install gnome-software-plugin-flatpak
 ```
- <img src="https://user-images.githubusercontent.com/45159366/107159312-fb03fd00-6943-11eb-933c-188617e63fd1.png">
+
 
 ## Essential Apps(depending on your workflow)
 
