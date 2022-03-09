@@ -123,7 +123,7 @@ sudo ufw status //checks status of firewall
 
 ## GNOME Software Center
 
- <img src="https://user-images.githubusercontent.com/45159366/107159312-fb03fd00-6943-11eb-933c-188617e63fd1.png">
+ <img src="https://user-images.githubusercontent.com/45159366/157353143-bab87b3e-bdef-4138-9e46-dead47291feb.png">
  
 ```sh
 sudo apt install gnome-software
